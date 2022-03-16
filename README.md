@@ -1,2 +1,2 @@
-# birefstorymaker
+# briefstorymaker
 briefstory maker interface
