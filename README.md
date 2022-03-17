@@ -1,2 +1,0 @@
-# briefstorymaker
-briefstory maker interface
